@@ -1,0 +1,38 @@
+[
+    {
+        "id": "szosz-1",
+        "name": "Ketchup",
+        "type": "szosz",
+        "img": "../img/szosz/1.jpg",
+        "price": "100",
+        "unitPrice": "100",
+        "piece": "1"
+    },
+    {
+        "id": "szosz-2",
+        "name": "Mustár",
+        "type": "szosz",
+        "img": "../img/szosz/2.jpg",
+        "price": "100",
+        "unitPrice" : "100",
+        "piece": "1"
+    },
+    {
+        "id": "szosz-3",
+        "name": "Majonéz",
+        "type": "szosz",
+        "img": "../img/szosz/3.jpg",
+        "price": "200",
+        "unitPrice" : "200",
+        "piece": "1"
+    },
+    {
+        "id": "szosz-4",
+        "name": "Csípős szósz",
+        "type": "szosz",
+        "img": "../img/szosz/4.jpg",
+        "price": "200",
+        "unitPrice" : "200",
+        "piece": "1"
+    }
+]

@@ -1,0 +1,88 @@
+{
+    "name": "Csabai Melinda",
+    "address": "1142 Budapest Valami 2",
+    "phone": "06315361711",
+    "cart": [
+        {
+            "id": "bagutte-1",
+            "name": "Fehér baguette",
+            "type": "baguette",
+            "img": "../img/baguette/1.jpg",
+            "price": "400",
+            "unitPrice": "400",
+            "piece": "1"
+        },
+        {
+            "id": "butter-3",
+            "name": "Laktózmentes vaj",
+            "type": "butter",
+            "img": "../img/butter/3.jpg",
+            "price": "150",
+            "unitPrice": "150",
+            "piece": "1"
+        },
+        {
+            "id": "hus-1",
+            "name": "Pulyka sonka",
+            "type": "hus",
+            "img": "../img/hus/1.jpg",
+            "price": "200 Ft",
+            "unitPrice": "200",
+            "piece": "1"
+        },
+        {
+            "id": "sajt-2",
+            "name": "Edami sajt",
+            "type": "sajt",
+            "img": "../img/sajt/2.jpg",
+            "price": "250",
+            "unitPrice": "250",
+            "piece": "1"
+        },
+        {
+            "id": "sajt-4",
+            "name": "Növényi sajt",
+            "type": "sajt",
+            "img": "../img/sajt/4.jpg",
+            "price": "150",
+            "unitPrice": "150",
+            "piece": "1"
+        },
+        {
+            "id": "zoldsegek-4",
+            "name": "Hagyma",
+            "type": "zoldsegek",
+            "img": "../img/zoldsegek/4.jpg",
+            "price": "100",
+            "unitPrice": "100",
+            "piece": "1"
+        },
+        {
+            "id": "szosz-1",
+            "name": "Ketchup",
+            "type": "szosz",
+            "img": "../img/szosz/1.jpg",
+            "price": "100",
+            "unitPrice": "100",
+            "piece": "1"
+        },
+        {
+            "id": "szosz-4",
+            "name": "Csípős szósz",
+            "type": "szosz",
+            "img": "../img/szosz/4.jpg",
+            "price": "200",
+            "unitPrice": "200",
+            "piece": "1"
+        },
+        {
+            "id": "szosz-2",
+            "name": "Mustár",
+            "type": "szosz",
+            "img": "../img/szosz/2.jpg",
+            "price": "100",
+            "unitPrice": "100",
+            "piece": "1"
+        }
+    ]
+}

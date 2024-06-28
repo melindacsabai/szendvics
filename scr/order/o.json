@@ -1,0 +1,61 @@
+{
+    "name": "Csabai Melinda",
+    "address": "1230 Budapest Akarmi utca  23",
+    "phone": "06207816723",
+    "cart": [
+        {
+            "id": "bagutte-2",
+            "name": "Teljes kiörlésű baguette",
+            "type": "baguette",
+            "img": "../img/baguette/2.jpg",
+            "price": "500",
+            "unitPrice": "500",
+            "piece": "1"
+        },
+        {
+            "id": "butter-4",
+            "name": "Humusz",
+            "type": "butter",
+            "img": "../img/butter/4.jpg",
+            "price": "200",
+            "unitPrice": "200",
+            "piece": "1"
+        },
+        {
+            "id": "hus-4",
+            "name": "Hal pástétom",
+            "type": "hus",
+            "img": "../img/hus/4.jpg",
+            "price": "300",
+            "unitPrice": "200",
+            "piece": "1"
+        },
+        {
+            "id": "sajt-4",
+            "name": "Növényi sajt",
+            "type": "sajt",
+            "img": "../img/sajt/4.jpg",
+            "price": "150",
+            "unitPrice": "150",
+            "piece": "1"
+        },
+        {
+            "id": "zoldsegek-4",
+            "name": "Hagyma",
+            "type": "zoldsegek",
+            "img": "../img/zoldsegek/4.jpg",
+            "price": "100",
+            "unitPrice": "100",
+            "piece": "1"
+        },
+        {
+            "id": "szosz-4",
+            "name": "Csípős szósz",
+            "type": "szosz",
+            "img": "../img/szosz/4.jpg",
+            "price": "200",
+            "unitPrice": "200",
+            "piece": "1"
+        }
+    ]
+}

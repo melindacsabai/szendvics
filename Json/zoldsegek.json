@@ -1,0 +1,38 @@
+[
+    {
+        "id": "zoldsegek-1",
+        "name": "Paradicsom",
+        "type": "zoldsegek",
+        "img": "../img/zoldsegek/1.jpg",
+        "price": "150",
+        "unitPrice" : "150",
+        "piece": "1"
+    },
+    {
+        "id": "zoldsegek-2",
+        "name": "Paprika",
+        "type": "zoldsegek",
+        "img": "../img/zoldsegek/2.jpg",
+        "price": "200",
+        "unitPrice" : "200",
+        "piece": "1"
+    },
+    {
+        "id": "zoldsegek-3",
+        "name": "Uborka",
+        "type": "zoldsegek",
+        "img": "../img/zoldsegek/3.jpg",
+        "price": "200",
+        "unitPrice" : "200",
+        "piece": "1"
+    },
+    {
+        "id": "zoldsegek-4",
+        "name": "Hagyma",
+        "type": "zoldsegek",
+        "img": "../img/zoldsegek/4.jpg",
+        "price": "100",
+        "unitPrice" : "100",
+        "piece": "1"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": "butter-1",
+        "name": "Vaj",
+        "type": "butter",
+        "img": "../img/butter/1.jpg",
+        "price": "50",
+        "unitPrice"  : "50",
+        "piece": "1"
+    },
+    {
+        "id": "butter-2",
+        "name": "Margarin",
+        "type": "butter",
+        "img": "../img/butter/2.jpg",
+        "price": "100",
+        "unitPrice"  : "100",
+        "piece": "1"
+    },
+    {
+        "id": "butter-3",
+        "name": "Laktózmentes vaj",
+        "type": "butter",
+        "img": "../img/butter/3.jpg",
+        "price": "150",
+        "unitPrice"  : "150",
+        "piece": "1"
+    },
+    {
+        "id": "butter-4",
+        "name": "Humusz",
+        "type": "butter",
+        "img": "../img/butter/4.jpg",
+        "price": "200",
+        "unitPrice"  : "200",
+        "piece": "1"
+    }
+]

@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+}
+
+#content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:  rgba(248, 245, 236, 0.719);
+}
+
+.show-btn{
+
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 500;
+    font-style: normal;
+    padding: 1rem;
+    color: rgb(46, 46, 46);
+    border: 2px solid rgb(46, 46, 46);
+    box-shadow: 2px 2px 10px 0px #1b1b1b;
+    border-radius: 1em;
+    cursor: pointer;
+    user-select: none;
+  
+  }
+  .show-btn:active{
+  
+      margin: 1px 0px 0px 1px;
+      box-shadow: 0px 0px 5px 0px #1b1b1b;
+  }
+  .show-btn:hover{
+      background-color: rgba(243, 209, 134, 0.356);
+  }
+  input{
+    margin: 0 5px 10px 5px;
+    border-radius: 5px;
+    height: 40px;
+    user-select: none;
+    padding: 20px;
+}
+/* .input-unitPrice{
+    background-color:  rgba(248, 245, 236, 0.719);
+    border: none;
+} */
+img{
+    width: 40px;
+    height: 20px;
+}
+img:hover{
+    cursor: pointer;
+}
+.input-unitPrice,.input-piece{
+    width: 50px;
+    text-align: center;
+}
+.save-btn{
+    display: none;
+    background-color: #c67d8a;
+    padding: 5px;
+    border: 1px solid #b5384e;;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 0 5px;
+}
+.delete-btn{
+    background-color: #c67d8a;
+    padding: 4px 8px;
+    border: 1px solid #b5384e;;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 0 5px;
+}
+.admin-data-ct{
+    margin: 20px 0 20px 0;
+}
+#content{
+    padding: 2rem;
+    margin: 1rem;
+}
+#content .summa{
+    padding: 20px 0 20px 0;
+}

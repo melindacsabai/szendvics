@@ -1,0 +1,39 @@
+
+[
+    {
+        "id": "bagutte-1",
+        "name": "Fehér baguette",
+        "type": "baguette",
+        "img": "../img/baguette/1.jpg",
+        "price": "400",
+        "unitPrice" : "400",
+        "piece": "1"
+    },
+    {
+        "id": "bagutte-2",
+        "name": "Teljes kiörlésű baguette",
+        "type": "baguette",
+        "img": "../img/baguette/2.jpg",
+        "price": "500",
+        "unitPrice"  : "500",
+        "piece": "1"
+    },
+    {
+        "id": "bagutte-3",
+        "name": "Gluténmentes baguette",
+        "type": "baguette",
+        "img": "../img/baguette/3.jpg",
+        "price": "500",
+        "unitPrice"  : "500",
+        "piece": "1"
+    },
+    {
+        "id": "bagutte-4",
+        "name": "Kovászos baguette",
+        "type": "baguette",
+        "img": "../img/baguette/4.jpg",
+        "price": "600",
+        "unitPrice"  : "600",
+        "piece": "1"
+    }
+]

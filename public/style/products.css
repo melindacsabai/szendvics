@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 1.2rem;
+    font-weight: 500;
+    font-style: normal;
+}
+.content{
+    padding: .2em;
+}
+.innerCt{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 5px;
+    position: relative;
+}
+
+.innerCt img:hover{
+    cursor: pointer;
+    scale:1.1;
+}
+.btn-innerCt{
+    margin-top: 20px;
+    position: relative;
+}
+
+.btn-ct{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.btn-inactive{
+    width: 60%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.btn-tovabb,.btn-vissza{
+    background-color:  rgb(228, 222, 204);
+    display: inline-block;
+    padding: 15px 40px;
+    margin: 2em 0 0 2em;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 2px 2px 5px 1px #bbb;
+    user-select: none;
+    display: none;
+}
+.btn-ct div:hover{
+  
+    transform: translateY(-5px);
+    border: 1px solid rgba(2, 2, 2, 0.123);
+    box-shadow: 2px 2px 10px 0px #000000;
+}
+.btn-ct div:active{
+  
+    transform: translateY(-5px);
+    border: 1px solid rgba(2, 2, 2, 0.123);
+    box-shadow: 2px 2px 10px 0px #000000;
+}
+#egy{
+    grid-area: one;
+}
+
+#ketto{
+    grid-area: two;
+}
+
+#harom{
+    grid-area: three;
+}
+
+#negy{
+    grid-area: four;
+}
+/* .pimage{
+    width: 25vw;
+    height: 25vh;
+   padding: 5px;
+    
+} */
+img{
+    width: 20vw;
+    height: 25vh;
+    border-radius: 20px;
+    padding: 10px 5px 0 5px;
+}
+.products-ct.container{
+    display: grid;
+    grid-template-areas: "one two" "three four";
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    width: 60vw;
+    height: 70vh;
+    margin-bottom: 20px;
+}
+.product{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.innerCt .pname,.innerCt .price{
+    text-align: center;
+    margin: 10px 0 0px 0;
+    
+    
+}
+.innerCt .pname{
+    margin-top: 20px;
+}
+.price{
+    padding-bottom: 10px;
+}
+
+.selected{
+    background-color: rgba(247, 242, 226, 0.912);
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px 0px #3a3a3a;
+}

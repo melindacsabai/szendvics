@@ -1,0 +1,38 @@
+[
+    {
+        "id": "sajt-1",
+        "name": "Trapista sajt",
+        "type": "sajt",
+        "img": "../img/sajt/1.jpg",
+        "price": "200",
+        "unitPrice" : "200",
+        "piece": "1"
+    },
+    {
+        "id": "sajt-2",
+        "name": "Edami sajt",
+        "type": "sajt",
+        "img": "../img/sajt/2.jpg",
+        "price": "250",
+        "unitPrice"  : "250",
+        "piece": "1"
+    },
+    {
+        "id": "sajt-3",
+        "name": "Maasdam sajt",
+        "type": "sajt",
+        "img": "../img/sajt/3.jpg",
+        "price": "300",
+        "unitPrice"  : "300",
+        "piece": "1"
+    },
+    {
+        "id": "sajt-4",
+        "name": "Növényi sajt",
+        "type": "sajt",
+        "img": "../img/sajt/4.jpg",
+        "price": "150",
+        "unitPrice"  : "150",
+        "piece": "1"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": "hus-1",
+        "name": "Pulyka sonka",
+        "type": "hus",
+        "img": "../img/hus/1.jpg",
+        "price": "200 Ft",
+        "unitPrice"  : "200",
+        "piece": "1"
+    },
+    {
+        "id": "hus-2",
+        "name": "Sima szalámi",
+        "type": "hus",
+        "img": "../img/hus/2.jpg",
+        "price": "200",
+        "unitPrice"  : "200",
+        "piece": "1"
+    },
+    {
+        "id": "hus-3",
+        "name": "Paprikás szalámi",
+        "type": "hus",
+        "img": "../img/hus/3.jpg",
+        "price": "200",
+        "unitPrice"  : "200",
+        "piece": "1"
+    },
+    {
+        "id": "hus-4",
+        "name": "Hal pástétom",
+        "type": "hus",
+        "img": "../img/hus/4.jpg",
+        "price": "300",
+        "unitPrice" : "200",
+        "piece": "1"
+    }
+]
