@@ -264,27 +264,6 @@ function START() {
     renderCartStart();
   }
 
-  //reordering fn-strat from the beggining ---nem jó!!!!!!
-  // function againFn(){
-  //   document.querySelector(".cart-again-btn").addEventListener("click", async function () { 
-  //     szamlalo = 0;
-  //     tovabb.style.display = "inline-block";
-  //     vissza.style.display = "none";
-  //     tovabb.innerText = "Tovább";
-  //     const inactive = document.querySelector(".btn-inactive");
-  //     if (inactive)
-  //      inactive.remove();
-  
-  //      removeInnerContetn()
-  //      renderInnerContent(jsonElements[szamlalo]);
-     
-  //     szamlalo ++
-  //   });
- 
-  // }
- 
-
-
   //finishing order, senging order
   function orderFn(){
     const summa = document.querySelector(".cart-summa-btn")
@@ -357,15 +336,7 @@ reloadFn = function (){
 
   document.querySelector(".cart-again-btn").addEventListener("click", async function(){
      
-    window.location.reload();
-  //  content.innerHTML = `    
-  //   <div class="btn-innerCt">
-  //    <div class="btn-ct">
-  //     <div class="btn-vissza">Vissza</div>
-  //     <div class="btn-tovabb">Tovább</div>
-  //   </div> `
-  //   start();
-   
+    window.location.reload();   
      
   })
   }
